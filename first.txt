@@ -3,3 +3,5 @@ first commit
 Second addition, will not commit
 
 Third addition, will not add and commit
+
+This is a sample files
