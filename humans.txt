@@ -7,7 +7,6 @@
 
 # THANKS
 
-    @Deepak Sharma
 
 # TECHNOLOGY COLOPHON
 
