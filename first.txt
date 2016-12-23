@@ -1,6 +1,6 @@
 first commit
 
-Second addition, will not commit
+Second addition, will not commit.sample file
 
 Third addition, will not add and commit
 
