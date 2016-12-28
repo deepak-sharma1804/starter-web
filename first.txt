@@ -5,3 +5,6 @@ Second addition, will not commit.sample file
 Third addition, will not add and commit
 
 This is a sample files
+
+
+This is a sample merge text
