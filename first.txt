@@ -13,3 +13,4 @@ This is a sample merge text
 This is a sample text file
 >>>>>>> Stashed changes
 This is text
+This is a sample file

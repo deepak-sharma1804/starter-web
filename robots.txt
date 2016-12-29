@@ -4,3 +4,4 @@ User-agent: *.sample
 This is a sample text
 
 This is a sample stash edit
+This is a sample project
