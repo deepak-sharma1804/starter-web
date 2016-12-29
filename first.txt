@@ -8,3 +8,7 @@ This is a sample files
 
 
 This is a sample merge text
+<<<<<<< Updated upstream
+=======
+This is a sample text file
+>>>>>>> Stashed changes
